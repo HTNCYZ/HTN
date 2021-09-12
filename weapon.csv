@@ -1,0 +1,7 @@
+ID,name,type,distance,damage,speed,own
+1,sword,1,short,2,normal,1
+2,hammer,1,short,4,slow,0
+3,spear,1 and 2,short + far,3,far is slow and short is normal,0
+4,gun,2,far,2,normal,0
+5,bow,2,far,4,slow,0
+15,arrow,2,far,fast,0

@@ -1,0 +1,5 @@
+ID,name,damage,defense,speed,life
+11,gobling_fighter,3,4,2,10
+12,gobling_shuter,4,3,4,5
+13,gobing_assasin,5,1,7,5
+14,smama,10,5,6,20
